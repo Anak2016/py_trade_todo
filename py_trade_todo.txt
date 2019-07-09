@@ -1,4 +1,11 @@
+# -- useful source
+ZeroMQ – How To Interface Python/R with MetaTrader 4
+    url:https://blog.darwinex.com/zeromq-interface-python-r-metatrader4/
+
+#-- todo list
 > watch and code along "Algorithmic Trading via ZeroMQ: Python to MetaTrader (Subscribing to Market Data)"
     url:https://www.youtube.com/watch?v=9EaP_7sSzEI
 > run the demo program as intended. 
     url:https://github.com/darwinex/dwx-zeromq-connector
+
+
